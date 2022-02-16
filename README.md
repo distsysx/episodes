@@ -1,7 +1,3 @@
-# episodes
-
-Contains slides and notes from the podcasts
-
 # Episode-1: Google File System [18-2-2022]
 - Video: 
 - Podcast Link:
